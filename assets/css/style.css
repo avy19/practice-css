@@ -1,0 +1,12 @@
+img {
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+span.quo {
+  font-size: 30px;
+}
+span.bigletter {
+  font-size: 30px;
+  font-weight: bold;
+}
